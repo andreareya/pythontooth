@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Fonts */
+
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('fonts/SegoeUI.eot');
+    src: url('fonts/SegoeUI.eot?#iefix') format('embedded-opentype'),
+    url('fonts/SegoeUI.woff2') format('woff2'),
+    url('fonts/SegoeUI.woff') format('woff'),
+    url('fonts/SegoeUI.ttf') format('truetype'),
+    url('fonts/SegoeUI.svg#SegoeUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+    font-family: "Raleway", sans-serif;
+    background: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aze {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 150px;
+    background: rgba(0,0,0,0.5);
+    padding: 70px 30px 70px 30px;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #4ac3b5;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+h2 {
+    color:#4ac3b5;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+#btn {
+    display: auto;
+    margin-top: 20px;
+    font-size: 23px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #F6F7F9;
+    height: 40px;
+    line-height: 40px;
+    justify-content: center;
+    border: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 0px 30px 0px 30px;
+}
+

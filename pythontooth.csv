@@ -1,0 +1,59 @@
+{
+	"data": {
+		"house": "pythontooth",
+		"total_score": 170,
+		"wizards": [{
+			"name": "Edgar DE CARPENTIER",
+			"score": 10
+		}, {
+			"name": "Marie GOSSELET",
+			"score": 10
+		}, {
+			"name": "Nicolas ARRANZ",
+			"score": 10
+		}, {
+			"name": "Florian MARCANDELLI",
+			"score": 10
+		}, {
+			"name": "Andr\u00e9a REY",
+			"score": 10
+		}, {
+			"name": "Estelle HAPPIO",
+			"score": 10
+		}, {
+			"name": "Julie RAMIER",
+			"score": 10
+		}, {
+			"name": "Th\u00e9o HAMON",
+			"score": 10
+		}, {
+			"name": "Axelle SEROUILLE",
+			"score": 10
+		}, {
+			"name": "Meryem MGHATETE",
+			"score": 10
+		}, {
+			"name": "J\u00e9r\u00e9my LAVAYSSE",
+			"score": 10
+		}, {
+			"name": "Zita SZENTIMREY",
+			"score": 10
+		}, {
+			"name": "Jimmy TEMPORAO",
+			"score": 10
+		}, {
+			"name": "Marieme HERNANDEZ",
+			"score": 10
+		}, {
+			"name": "Alexis MARTIN",
+			"score": 10
+		}, {
+			"name": "Jana BRUGEL",
+			"score": 10
+		}, {
+			"name": "Aur\u00e9lien AMOUSSOU-NOUAHO",
+			"score": 10
+		}]
+	},
+	"status": "ok"
+}
