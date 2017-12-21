@@ -2,24 +2,12 @@
 /* CSS Document */
 /* Fonts */
 
-@font-face {
-    font-family: 'SegoeUI';
-    src: url('fonts/SegoeUI.eot');
-    src: url('fonts/SegoeUI.eot?#iefix') format('embedded-opentype'),
-    url('fonts/SegoeUI.woff2') format('woff2'),
-    url('fonts/SegoeUI.woff') format('woff'),
-    url('fonts/SegoeUI.ttf') format('truetype'),
-    url('fonts/SegoeUI.svg#SegoeUI') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
 body {
     font-family: "Raleway", sans-serif;
     background: white;
     background-size: cover;
     background-repeat: no-repeat;
+	background-color:#FFFFFF; 
 }
 
 .aze {
@@ -27,21 +15,26 @@ body {
     margin: auto;
     text-align: center;
     margin-top: 150px;
-    background: rgba(0,0,0,0.5);
-    padding: 70px 30px 70px 30px;
+    padding: 70px 70px 30px 70px;
+	background-color: white;
+	border: solid 1px;
+	border-color: #DFDFDF;
 }
 
 h1 {
-    text-transform: uppercase;
-    color: #4ac3b5;
+	font-family: 'Montserrat', sans-serif;
+    color: black;
+	letter-spacing: 5pt;
 }
 
 p{
-    color: white;
-    font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 50px;
 }
 
 h2 {
+	font-family: 'Montserrat', sans-serif;
     color:#4ac3b5;
     font-size: 18px;
     text-transform: uppercase;
